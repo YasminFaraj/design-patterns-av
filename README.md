@@ -1,6 +1,7 @@
 # design-patterns-av
 This project are designed for avaliation of design patterns.
 Questions:
+
 **Questão 1 **
 Uma empresa de logística precisa desenvolver um sistema de cálculo de tarifas para diferentes tipos de transporte: terrestre, aéreo e marítimo.
 
